@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UIBtn
+  - obstacleLite
+  - obstacleHeavy
+  - touchableArea
+  - enemyUnit
+  - userUnit
+  - box
+  - itemGold
+  - itemHeal
+  - hitSource
+  - itemCollect
+  - Building
+  - Boundary
+  - Cinematic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - enemyUnit
+  - hitSourceLayer
+  - itemCollector
+  - item
+  - cameraBlock
+  - box
+  - 
+  - Detector
+  - userBody
+  - hitbox
+  - AttackRange
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Building
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sprite
+    uniqueID: 1744636323
+    locked: 0
+  - name: TileGround
+    uniqueID: 2833778845
+    locked: 0
+  - name: TileObject
+    uniqueID: 74172917
+    locked: 0
+  - name: UI
+    uniqueID: 908488733
+    locked: 0
